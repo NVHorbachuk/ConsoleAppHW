@@ -8,7 +8,7 @@
 
 //        Console.WriteLine("Пошук Мінімального Числа у Масиві");
 //        // Ствторюємо масив
-//        int[] numbers = { 31, 5, 12, 3, 9, 1, 15,10,66, 11, 6, 2 };
+//        int[] numbers = { 31, 5, 12, 3, 9, 1, 15, 10, 66, 11, 6, 2 };
 
 //        Console.Write("Початковий масив: [");
 //        Console.Write(string.Join(", ", numbers));
@@ -16,11 +16,11 @@
 
 //        int minNumber = numbers[0];
 
-   
+
 //        foreach (int number in numbers)
 //        {
 //            // Тут є умова порівняння 
-           
+
 //            if (number < minNumber)
 //            {
 //                minNumber = number; // Мінімальне значення
@@ -28,7 +28,7 @@
 //        }
 
 //        // 4. Виводимо результат
- 
+
 //        Console.WriteLine($"Мінімальне число у масиві: {minNumber}");
 
 //        Console.WriteLine("Натисніть будь-яку клавішу для виходу...");

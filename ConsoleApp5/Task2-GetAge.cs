@@ -8,7 +8,7 @@
 //        Console.OutputEncoding = System.Text.Encoding.UTF8;
 //        bool continueLoop = false;
 
-//  // Основний цикл do/while
+//  // Основний цикл
 //        do
 //        {
 //            int age = 0;

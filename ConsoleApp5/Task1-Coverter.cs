@@ -21,7 +21,7 @@
 //        Console.OutputEncoding = System.Text.Encoding.UTF8;
 //        bool continueConverting = true;
 
-// // Основний цикл do/while
+//        // Основний цикл do/while
 //        do
 //        {
 //            Console.WriteLine(" Конвертер Температур (°C <=> °F)");
@@ -58,7 +58,7 @@
 //            double result = 0;
 //            string resultUnit = "";
 
-// //            Логіка визначення, яку конвертацію виконувати
+//            //            Логіка визначення, яку конвертацію виконувати
 //            if (inputUnit == "C")
 //            {
 //                result = CelsiusToFahrenheit(temperature);
@@ -70,7 +70,10 @@
 //                resultUnit = "°C (Цельсій)";
 //            }
 
-//            Console.WriteLine($ Результат: {temperature:N2} {inputUnit} = {result:N2} {resultUnit}");
+//            Console.WriteLine($ Результат: { temperature: N2}
+//            { inputUnit} = { result: N2}
+//            { resultUnit}
+//            ");
 
 
 //            Console.Write("Бажаєте виконати ще одну конвертацію? (Y/N): ");
